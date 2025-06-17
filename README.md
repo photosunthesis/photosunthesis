@@ -2,7 +2,6 @@
 
 #### 👨‍💻 About Me
 - 📍 Metro Manila, Philippines
-- 🏢 Flutter Developer at [Nextbank](https://www.nextbank.ph)
 - 🚀 Building scalable mobile and web apps
 - 🦋 Focused on Flutter development
 
