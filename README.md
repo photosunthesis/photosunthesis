@@ -8,4 +8,4 @@
 #### 📫 Connect & Collaborate
 
 - 📧 [sunadriann31@gmail.com](mailto:sunadriann31@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sunenvidiado/)
+- 💼 [in/sunenvidiado](https://www.linkedin.com/in/sunenvidiado/)
