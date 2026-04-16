@@ -3,7 +3,7 @@
 #### 👨‍💻 About Me
 - 📍 Metro Manila, Philippines
 - 🚀 Building scalable mobile and web apps
-- 🦋 Focused on Flutter development
+- 🦋 Focused on mobile app development
 
 #### 📫 Connect & Collaborate
 
