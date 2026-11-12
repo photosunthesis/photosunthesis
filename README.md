@@ -7,5 +7,5 @@
 
 #### 📫 Connect & Collaborate
 
-- 📧 [hello@sun-envidiado.com](mailto:hello@sun-envidiado.com)
+- 📧 [sun.adriann@icloud.com](mailto:sun.adriann@icloud.com)
 - 💼 [in/sunenvidiado](https://www.linkedin.com/in/sunenvidiado/)
